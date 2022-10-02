@@ -164,6 +164,7 @@
 	patches.armbian/arm64-dts-sun50i-h6-orangepi-add-cpu-opp-refs.patch
 	patches.armbian/arm64-dts-sun50i-h6-orangepi-enable-higher-clock-regulator-max-.patch
 	patches.armbian/Fix-compile-error-node-not-found.patch
+	patches.armbian/arm64-dts-sun50i-h616-add-cicada.patch
 #
 #       Old driver rtl8723cs
 #
