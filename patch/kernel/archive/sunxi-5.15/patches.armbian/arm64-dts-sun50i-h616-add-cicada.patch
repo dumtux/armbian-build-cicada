@@ -118,9 +118,9 @@ index 000000000..e3bf761e9
 +	mmc-pwrseq = <&pwrseq_wifi>;
 +	non-removable;
 +
-+        xr819wifi: xr819wifi@1 {
++        xr829wifi: xr829wifi@1 {
 +                reg = <1>;
-+                compatible = "xradio,xr819";
++                compatible = "xradio,xr829";
 +                pinctrl-names = "default";
 +                pinctrl-0 = <&wifi_wake>;
 +                interrupt-parent = <&pio>;
